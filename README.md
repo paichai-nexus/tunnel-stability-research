@@ -1,5 +1,20 @@
 # tunnel-stability-research
 
+<!-- NEXUS_PROJECT_META_START -->
+
+## Project Management
+
+| Field | Value |
+| --- | --- |
+| Status | 🟡 Planning |
+| Project Lead | TBD |
+| Team / Support | Tunnel Stability Research TF |
+| Next Milestone | 연구질문·대상 구간·활용 데이터 범위 확정 |
+| Registry | [NEXUS Project Registry](https://github.com/paichai-nexus/nexus-project-registry) |
+
+<!-- NEXUS_PROJECT_META_END -->
+
+
 PAICHAI NEXUS Student Project
 
 ## Overview
